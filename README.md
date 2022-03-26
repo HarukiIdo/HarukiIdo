@@ -1,9 +1,5 @@
--  Hi, I’m @HarukiIdo
--  I'm working in Buildit as Flutter enginner.
--  nice to meet you
--  Thank you!
-
-<!---
-HarukiIdo/HarukiIdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 自己紹介
+はじめまして！同志社大学の井戸春希と申します。  
+大学では自動運転分野の研究を、趣味ではモバイルアプリの開発をしております。  
+現在はモバイルアプリ開発のインターンをしておりますが、バックエンドに興味があり現在学習中です！
+よろしくお願いします！
