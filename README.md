@@ -1,9 +1,9 @@
 ## Hey I'm HarukiIdo
 I Love Go and Flutter.
-- Graduate student in Kyoto, Japan.
-- Specialize in the automated driving.
-- Internship experience in mobile and web app development   
-- Aspiring back-end engineer
+- 🍁 Graduate student in Kyoto, Japan.
+- 🚗 Specialize in the automated driving.
+- 💻 Internship experience in mobile and web app development   
+- 💡 Aspiring back-end engineer
 
 I look forward to working with you!!
 
